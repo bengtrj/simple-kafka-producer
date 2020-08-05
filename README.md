@@ -30,5 +30,5 @@ $ simple-kafka-producer topic file
 ```
 
 where:
- `topic` is the name of the kafka topic to publish events
- `file` is the path to the file where the events to produce are
+- `topic` is the name of the kafka topic to publish events
+- `file` is the path to the file where the events to produce are
