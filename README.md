@@ -26,7 +26,7 @@ It produces the messages into kafka running on `localhost` default port, althoug
 Usage
 
 ```
-go run main.go -- topic file
+$ simple-kafka-producer topic file
 ```
 
 where:
